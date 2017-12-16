@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Sensors
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PHMeter	KEYWORD1
+PHMeterMoc	KEYWORD1
+PHMeterBNC	KEYWORD1
+Thermometer	KEYWORD1
+ThermometerMoc	KEYWORD1
+ThermometerDS18B20	KEYWORD1
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

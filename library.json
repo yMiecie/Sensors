@@ -1,0 +1,19 @@
+{
+    "name": "Sensors",
+    "description": "An Arduino library for managing all common sensors with shared interfaces.",
+    "keywords": "sensors, interface, temperature, button, pH, thermometer, pH meter",
+    "authors": [
+        {
+            "name": "Yann Miecielica",
+            "email": "yann.miecielica@gmail.com",
+            "url": "https://github.com/yMiecie",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yMiecie/Sensors"
+    },
+    "version": "0.0.1",
+    "frameworks": "Arduino"
+}
